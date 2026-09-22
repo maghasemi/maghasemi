@@ -30,13 +30,18 @@
 
 ## 🚧 Currently Building
 
-_(به‌زودی — دو تا پروژه‌ی metabolite matcher و FASTQ pipeline میان اینجا)_
+<table>
+<tr>
+<td width="50%"><img src="assets/building-metabolite-matcher.png" width="100%" /></td>
+<td width="50%"><img src="assets/building-fastq-pipeline.png" width="100%" /></td>
+</tr>
+</table>
 
 <br>
 
 ## 👨‍💻 About Me
 
-​```js
+```js
 const amin = {
   location: "Bonn, Germany",
   role: "Bioinformatics & Biostatistics | Multiomics Data Analysis",
@@ -55,7 +60,7 @@ const amin = {
 
   extra: "Product design background — helps me turn analysis into something people can actually use",
 };
-​```
+```
 
 ---
 
