@@ -10,10 +10,16 @@
 
 <br>
 
-## 📄 Featured Publication
+## 📄 Publications
 
 <a href="https://www.nature.com/articles/s41423-026-01440-9">
   <img src="assets/paper-banner.png" width="100%" />
+</a>
+
+<br>
+
+<a href="https://www.sciencedirect.com/science/article/pii/S1746809421009265">
+  <img src="assets/paper-banner-2.png" width="100%" />
 </a>
 
 <br><br>
